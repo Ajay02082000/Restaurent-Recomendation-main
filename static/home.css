@@ -1,0 +1,125 @@
+                body {
+                    font-family: 'Merriweather', serif !important;
+                    background-image: url('background1.jpg');
+                    /* height: 100%; */
+                    background-position: center;
+                    background-size: cover;
+                    /* backdrop-filter: blur(5px); */
+                }
+                
+                .container {
+                    color: #ececec;
+                }
+                
+
+                .gloria-hallelujah-regular {
+                    font-family: "Gloria Hallelujah", cursive;
+                    font-weight: 400;
+                    font-style: normal;
+
+                    color: #fff; /* Text color for neon glow */
+                    text-shadow: 0 0 10px #fff, 0 0 20px #ff7eb9, 0 0 30px #ff7eb9, 0 0 40px #ff7eb9, 0 0 70px #ff7eb9, 0 0 80px #ff7eb9, 0 0 100px #ff7eb9, 0 0 150px #ff7eb9;
+                  
+
+                }
+
+
+                nav.nav-item.nav-link {
+                    color: white !important;
+                }
+                
+                .r-name {
+                    font-family: 'Cinzel Decorative', cursive;
+                    font-weight: 700;
+                }
+                
+                .submit-button {
+                    border-radius: 25px;
+                    border: 2px solid rgba(0, 0, 0, 0.8);
+                    background: rgba(0, 0, 0, 0.4);
+                    color: white;
+                    padding: 5px 20px;
+                    transition: all 400ms ease-out;
+                }
+                
+                .submit-button:hover {
+                    background: rgb(4, 110, 119, 0.8);
+                    color: #FEFFFF;
+                    border: 2px solid rgb(4, 110, 119);
+                }
+                
+                .fa-github:hover {
+                    color: rgb(65, 5, 65);
+                }
+                
+                .fa-linkedin-square:hover {
+                    color: rgb(47, 5, 145);
+                }
+
+
+
+
+
+
+
+              
+            
+
+               
+                
+                
+               
+
+                
+                
+            
+                
+                .custom-select {
+                    border: 1px solid #ced4da;
+                    border-radius: 5px;
+                    background: rgba(0, 0, 0, 0.4);
+                    /* color: rgb(120, 95, 95); */
+                    color: #ffffff;
+                    padding: 5px 20px;
+                    transition: all 400ms ease-out;
+                }
+                .custom-select:hover {
+                    background: rgb(4, 110, 119, 0.8);
+                    color: #ffffff;
+                    border: 2px solid rgb(4, 110, 119);
+                }
+
+                .form-controla {
+                    display: block;
+                    width: 100%;
+                    height: calc(1.5em + .75rem + 2px);
+                    /* padding: .375rem .75rem; */
+                    font-size: 1rem;
+                    font-weight: 400;
+                    line-height: 1.5;
+                    color: #fffffffe; /* White text */
+                    background-color: transparent; /* Transparent background */
+                    background-clip: padding-box;
+                    border: 1px solid #ced4da;
+                    border-radius: .25rem;
+                    /* transition: border-color .15s ease-in-out, box-shadow .15s ease-in-out; */
+                    border: 1px solid #ced4da;
+                    border-radius: 5px;
+                    background: rgba(0, 0, 0, 0.4);
+                    
+                    transition: all 400ms ease-out;
+                }
+                
+                .form-controla:hover {
+                    background: rgba(4, 110, 119, 0.8);
+                    color: #feffff;
+                    border: 2px solid rgba(4, 110, 119, 0.8);
+                }
+                .form-controla::placeholder {
+                    color: #ffffff;
+                }
+
+
+            
+
+               
